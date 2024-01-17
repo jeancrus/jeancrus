@@ -8,7 +8,7 @@
     />
   </a>
   <a href="https://app.daily.dev/jeancrus94">
-    <img src="src="https://github.com/jeancrus/jeancrus/blob/master/devcard.svg" width="256" align="right" alt="Jean Carlos Antunes da Crus's Dev Card"/>
+    <img src="src="https://raw.githubusercontent.com/jeancrus/jeancrus/devcard/devcard.svg" width="256" align="right" alt="Jean Carlos Antunes da Crus's Dev Card"/>
   </a>
 </div>
 
