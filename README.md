@@ -7,7 +7,7 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://api.daily.dev/get?r=jeancrus9" target="_blank">
+  <a href="https://api.daily.dev/get?r=jeancrus94" target="_blank">
     <img src="src="https://raw.githubusercontent.com/jeancrus/jeancrus/devcard/devcard.svg" width="256" align="right" alt="Jean Carlos Antunes da Crus's Dev Card"/>
   </a>
 </div>
