@@ -1,18 +1,16 @@
 # Hi there 👋
 
-<div align="left">
+<div align="center">
+  <a href="https://app.daily.dev/jeancrus94">
+    <img
+    src="https://api.daily.dev/devcards/v2/F9D6S5jcmXWwtdxhqEfLA.png?r=ks3"
+    width="356" alt="Jean Carlos Antunes da Crus's Dev Card"/>
+  </a>
+  <br />
   <a href="https://www.linkedin.com/in/jean-crus-4ba029137/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
-    />
-  </a>
-  <a href="https://api.daily.dev/get?r=jeancrus94" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/jeancrus/jeancrus/devcard/devcard.svg"
-      width="256" 
-      align="right" 
-      alt="Jean Crus's Dev Card"
     />
   </a>
 </div>
