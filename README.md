@@ -1,6 +1,14 @@
 # Hi there 👋
 
-<div style="position: absolute; top: 0; left: 50%;">
+<style>
+  .profile-picture {
+    position: absolute;
+    top: 0;
+    left: 50%;
+  }
+</style>
+
+<div class="profile-picture">
   <a href="https://app.daily.dev/jeancrus94">
     <img
       src="./devcard.png"
