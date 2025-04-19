@@ -3,8 +3,9 @@
 <div align="center">
   <a href="https://app.daily.dev/jeancrus94">
     <img
-    src="https://api.daily.dev/devcards/v2/F9D6S5jcmXWwtdxhqEfLA.png?r=ks3"
-    width="356" alt="Jean Carlos Antunes da Crus's Dev Card"/>
+      src="./devcard.png"
+      width="356" alt="Jean Carlos Antunes da Crus's Dev Card"
+    />
   </a>
   <br />
   <a href="https://www.linkedin.com/in/jean-crus-4ba029137/">
