@@ -1,5 +1,5 @@
 # Hi there 👋
-
+Creator of the training web app: https://www.aithletica.com.br/ 
 <div>
   <a href="https://app.daily.dev/jeancrus94">
     <img
